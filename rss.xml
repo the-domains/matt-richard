@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matt Richard]]></title>
+        <description><![CDATA[Matt Richard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 19:39:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Welcome to my portfolio site! My name is Matt Richard and I am super excited to get started sharing the work I have been a part of as of late. Please drop me a line if: you like what I do; are interested in my techniques; have questions in general; or would like me to work with you. Cheers.</p></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">68e74c82-4c34-4213-b228-9b62def9c3c2</guid>
+            <pubDate>Wed, 03 Feb 2016 19:38:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
