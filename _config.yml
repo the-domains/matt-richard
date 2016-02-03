@@ -1,28 +1,40 @@
-name: Matt Richard
 favicon: null
-layout_spectrum: 0.6306280212011188
-typography_spectrum: 0.24783760751597583
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Matt Richard
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2580645
+  brandStrength: 0.8328419809695333
+  lightness: 0.3064516
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8328419809695333
-  lightness: 0.5537943318486214
-  saturation: 0.586302709300071
-  rhythmicContrast: 0.40329734701663256
-purpose: []
+  rhythmicContrast: 0.4032973
+typography_spectrum: 0.2478376075159758
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6306280212011188
+analytics:
+  twitter: null
+  google: null
+  facebook: null
