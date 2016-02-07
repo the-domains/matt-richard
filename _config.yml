@@ -1,7 +1,7 @@
 name: Matt Richard
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.87625
+typography_spectrum: 0.42475
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070508'
-    - '#feffff'
-    - '#ff8dae'
-    - '#957197'
-    - '#f336ea'
+    - '#c69172'
+    - '#796974'
+    - '#65bfd7'
+    - '#b6e5eb'
+    - '#413299'
   brandStrength: 0
-  lightness: 0.3064516
-  saturation: 0.2580645
-  rhythmicContrast: 0.4032973
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
