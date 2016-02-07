@@ -4,11 +4,18 @@
         <description><![CDATA[Matt Richard]]></description>
         <link>https://thegrid.ai/matt-richard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 23:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 23:29:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matt-richard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>in</p>]]></description>
+            <link>https://plus.google.com/communities/109127054924227823508/s/Yum</link>
+            <guid isPermaLink="false">abe7ec39-5d87-4c86-88e4-a2e4ff0125e9</guid>
+            <pubDate>Sun, 07 Feb 2016 23:29:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mini-Sun]]></title>
-            <description><![CDATA[<article><h1>Mini-Sun</h1><p>I made Mini-Sun as a prototype/maquette for a larger work created for Jason Krugman Studios. The CAD process was carried out in Adobe Illustrator. The design file was used to layout and order the LEDs as well as provide the dimensions for a CNC milled LED mounting plate. The STL was created in Rhinoceros and the tool path was created in MeshCam. I used leftover LPD8806 addressable LED strips wired in a serpentine pattern being controlled by a Teensy 3.1. The LEDs were programmed using the FastLED library in the Arduino IDE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b4c1f458ebbb46d9d64fb069a3b4d180084322e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Mini-Sun</h1><p>I made Mini-Sun as a prototype/maquette for a larger work created for Jason Krugman Studios. The CAD process was carried out in Adobe Illustrator. The design file was used to layout and order the LEDs as well as provide the dimensions for a CNC milled LED mounting plate. The STL was created in Rhinoceros and the tool path was created in MeshCam. I used leftover LPD8806 addressable LED strips wired in a serpentine pattern being controlled by a Teensy 3.1. The LEDs were programmed using the FastLED library in the Arduino IDE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64720848cbff5aaf374fc9383024c2e8f7055478.png"></article>]]></description>
             <link>https://thegrid.ai/matt-richard/6e4e64be-a83d-48ef-912b-940c2ac8826f/index.html</link>
             <guid isPermaLink="false">6e4e64be-a83d-48ef-912b-940c2ac8826f</guid>
             <pubDate>Sun, 07 Feb 2016 23:15:00 GMT</pubDate>
