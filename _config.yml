@@ -1,7 +1,7 @@
 name: Matt Richard
 favicon: null
-layout_spectrum: 0.6306280212011188
-typography_spectrum: 0.2478376075159758
+layout_spectrum: 0
+typography_spectrum: 1
 collections:
   - index:
       path: /
