@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Just an intro to my portfolio, and the grid in general.'
-datePublished: '2016-02-03T19:43:57.389Z'
-dateModified: '2016-02-03T19:43:36.102Z'
+datePublished: '2016-02-08T00:33:23.601Z'
+dateModified: '2016-02-07T19:40:46.577Z'
 title: Hello World
 author: []
 sourcePath: _posts/2016-02-03-hello-world.md
