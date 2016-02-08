@@ -4,7 +4,7 @@
         <description><![CDATA[Matt Richard]]></description>
         <link>https://thegrid.ai/matt-richard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 00:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 01:57:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matt-richard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Artificial computer controlled bird wings]]></title>
@@ -22,14 +22,14 @@
         </item>
         <item>
             <title><![CDATA[Mini-Sun]]></title>
-            <description><![CDATA[<article><h1>Mini-Sun</h1><p>I made Mini-Sun as a prototype/maquette for a larger work created for Jason Krugman Studios. The CAD process was carried out in Adobe Illustrator. The design file was used to layout and order the LEDs as well as provide the dimensions for a CNC milled LED mounting plate. The STL was created in Rhinoceros and the tool path was created in MeshCam. I used leftover LPD8806 addressable LED strips wired in a serpentine pattern being controlled by a Teensy 3.1. The LEDs were programmed using the FastLED library in the Arduino IDE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64720848cbff5aaf374fc9383024c2e8f7055478.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Mini-Sun</h1><p>I made Mini-Sun as a prototype/maquette for a larger work created for Jason Krugman Studios. The CAD process was carried out in Adobe Illustrator. The design file was used to layout and order the LEDs as well as provide the dimensions for a CNC milled LED mounting plate. The STL was created in Rhinoceros and the tool path was created in MeshCam. I used leftover LPD8806 addressable LED strips wired in a serpentine pattern being controlled by a Teensy 3.1. The LEDs were programmed using the FastLED library in the Arduino IDE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b4c1f458ebbb46d9d64fb069a3b4d180084322e.png"></article>]]></description>
             <link>https://thegrid.ai/matt-richard/6e4e64be-a83d-48ef-912b-940c2ac8826f/index.html</link>
             <guid isPermaLink="false">6e4e64be-a83d-48ef-912b-940c2ac8826f</guid>
-            <pubDate>Mon, 08 Feb 2016 00:33:15 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 01:57:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>Welcome to my portfolio site! My name is Matt Richard and I am super excited to get started sharing the work I have been a part of as of late. Please drop me a line if: you like what I do; are interested in my techniques; have questions in general; or would like me to work with you. Cheers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c76f9ed66d02f69ac7bb094a08b2de7c9da6a2c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Welcome to my portfolio site! My name is Matt Richard and I am super excited to get started sharing the work I have been a part of as of late. Please drop me a line if: you like what I do; are interested in my techniques; have questions in general; or would like me to work with you. Cheers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c244bcf1e1537388f1355bade90b0587e39e9a22.jpg"></article>]]></description>
             <link>https://thegrid.ai/matt-richard/hello-world/index.html</link>
             <guid isPermaLink="false">68e74c82-4c34-4213-b228-9b62def9c3c2</guid>
             <pubDate>Mon, 08 Feb 2016 00:33:23 GMT</pubDate>
